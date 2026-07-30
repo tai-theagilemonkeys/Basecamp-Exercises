@@ -1,5 +1,6 @@
 __pycache__/
 day1/04_diagnosing-ai-problems/runs.jsonl
+day2/01_evals/eval_results/
 
 # Secrets — your API key lives in a gitignored .env (never committed).
 # A bare ".env" with no slash ignores it in every folder, root or per-exercise.
